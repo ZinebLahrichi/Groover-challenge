@@ -17,3 +17,6 @@ The challenge is divided in three tasks:
 - `genre_classification.ipynb`
 - Data files
 - Virtual Environment
+
+All improvement ideas that were not implemented are not described in this report yet, but will
+be added later on.
